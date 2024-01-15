@@ -1,10 +1,10 @@
   Below is a well documented explanation of the implemented features and necessary instructions for running the app:
 
-(1) Project Structure: This project is well strusctured and organised with clear directories for components, styles, and assets.Separate files were also created for HTML, CSS, and JavaScript.
+(1) Project Structure: This project is well structured and organised with clear directories for components, styles, and assets.Separate files were also created for HTML, CSS, and JavaScript.
 
 (2) HTML Structure: This project possesses a clear and well structured HTML, including sections for questions, options, and a submit button.
 
-(3) CSS Styling: This application application makes use of CSS to ensure a clean and user-friendly interface and aesthetics.
+(3) CSS Styling: This application makes use of CSS to ensure a clean and user-friendly interface and aesthetics.
 
 (4) JavaScript Logic: The Javascript functions were implemented to handle events like submitting answers, calculating scores, and displaying results.
 
@@ -12,9 +12,9 @@
 
 
    Instructions for Running the app:
-Below are the instructions that MUST be strictly read and adherred to prior to starting the quiz:
+Below are the instructions that MUST be strictly read and adhered to prior to starting the quiz:
 
-1. You will have only <span>15 seconds</span> per each question.
+1. You will have only <span>15 seconds</span> per question.
  
 2. Once you select your answer,it cannot be undone.
  
@@ -25,9 +25,9 @@ Below are the instructions that MUST be strictly read and adherred to prior to s
 5. You'll get points on the basis of your correct answer.
    
 
- Below are the explnations of the distinctive features of this project:
+ Below are the explanations of the distinctive features of this project:
 
-(i) Multiple Choice Answer:This project makes use of multiple choice answer wherein the user is expected to choose ONE option only.
+(i) Multiple Choice Answers:This project makes use of multiple choice answers wherein the user is expected to choose ONE option only.
 
 (ii)It has a dynamic quiz interface that displays one question at a time:Here, the user answers each question consecutively.
 
@@ -35,8 +35,8 @@ Below are the instructions that MUST be strictly read and adherred to prior to s
 
 (iv) Scoring system:The app enables users to see their scores immediately.
 
-(iv)The app provides feedbacks on each question, indicating correctness. The green line indicates "correct" while the red line indicates "incorrect".
+(iv)The app provides feedback on each question, indicating correctness. The green line indicates "correct" while the red line indicates "incorrect".
 
-(v) Application of basic styling for aesthetics and visual apppeal to the user.
+(v) Application of basic styling for aesthetics and visual appeal to the user.
 
 
