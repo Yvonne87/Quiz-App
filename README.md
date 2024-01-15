@@ -1,4 +1,4 @@
-
+  Below is a well documented explanation of the implemented features and necessary instructions for running the app:
 
 (1) Project Structure: This project is well strusctured and organised with clear directories for components, styles, and assets.Separate files were also created for HTML, CSS, and JavaScript.
 
@@ -10,13 +10,33 @@
 
 (5) Readability and Consistency:The project Maintains a consistent coding style throughout the codebase.
 
-(6) Feature Explanations: Create a README file with detailed explanations of each implemented feature. Include information on how to add/edit questions, customize styles, and integrate new features.
 
+   Instructions for Running the app:
+Below are the instructions that MUST be strictly read and adherred to prior to starting the quiz:
 
-Instructions for Running the app:
-Below are the instructions that MUST be strictly read and adherred to prior to starting the quiz.
 1. You will have only <span>15 seconds</span> per each question.
+ 
 2. Once you select your answer,it cannot be undone.
+ 
 3. You can't select any option once the time goes off.
+  
 4. You can't exit from the quiz while you're playing.
+ 
 5. You'll get points on the basis of your correct answer.
+   
+
+ Below are the explnations of the distinctive features of this project:
+
+(i) Multiple Choice Answer:This project makes use of multiple choice answer wherein the user is expected to choose ONE option only.
+
+(ii)It has a dynamic quiz interface that displays one question at a time:Here, the user answers each question consecutively.
+
+(iii) The project utilizes Javascript for handling user input, transitioning between questions, and managing the quiz flow.
+
+(iv) Scoring system:The app enables users to see their scores immediately.
+
+(iv)The app provides feedbacks on each question, indicating correctness. The green line indicates "correct" while the red line indicates "incorrect".
+
+(v) Application of basic styling for aesthetics and visual apppeal to the user.
+
+
