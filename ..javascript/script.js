@@ -112,37 +112,7 @@ const questions = [
     questionElement.innerHTML = questionNo + ". " + currentQuestion.question;
     
     currentQuestion.answers.forEach(answer => {
-        //Set the quiz duration in seconds
-        aquizDurationInSeconds = 300;//5 minutes
-
-        //Display the initial timer value updateTimer();
-
-        //set up the timer interval
-        const timerinterval = setinterval(() =>
-            {
-                if (timeRemaining > 0){
-                    timeRemaining--;
-                    updateTimer();
-                }else{
-                    //Quiz time is up,you can perform actions here
-                    clearinterval(timerinterval);// Stop the timer
-                    alert("Time"s up!");
-                }
-            }, 1000);//Update every 1 second
-        function updateTimer(){
-            //Format the time in MM:SS
-            const minutes =
-                Math.floor(timeRemaining /60);
-            const seconds = timeRemaining %60;
-
-            //Display the timer
-
-            document.getElementByid('timer').innerText =${padZero(minutes)}:${padZero(seconds)};
-        }
-        function padZero(number) {
-            return (number < 10 ? '0': ") + number;
-                    }
-                        
+      
     const button = document.createElement("button");
     button.innerHTML = answer.text;
     button.classList.add("btn")
